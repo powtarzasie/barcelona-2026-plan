@@ -553,3 +553,48 @@ Godziny: pn–czw i niedz. do ~24:00, pt do 02:00, sobota całą noc.
 **Dzień 3 (Sob 4/7):** Sagrada Família z zewnątrz 9:30 (darmowe) → Camp Nou 11:00 → Lunch → TdF race oglądanie PdG (14–18) → Kolacja Can Ros (Barceloneta, REZERWACJA!)
 
 **Dzień 4 (Niedz 5/7):** Spokojne śniadanie → Gràcia/plaża Bogatell → Lunch Sol Soler → Lotnisko metro L9 o 18:00 → Lot 21:40
+
+---
+
+## Hiszpański survival — 12 zwrotów, które wystarczą
+
+> Pełna, interaktywna wersja na stronie: osobna zakładka **„Hiszpański survival”** (wymowa na głos + tryb ćwiczeń). Poniżej wersja tekstowa.
+
+Nie uczysz się języka — uczysz się **12 klocków LEGO**, z których złożysz kawiarnię, restaurację, sklep, ulicę i sytuację awaryjną.
+**Najważniejszy schemat:** `Hola. Por favor. Quiero…` (Cześć. Proszę. Chcę…). Zamień *Quiero* na *Necesito* (potrzebuję) i ten wzór obsłuży większość sytuacji.
+
+### Złota Dwunastka
+| Polski | Hiszpański | Wymowa | Mnemotechnika |
+|---|---|---|---|
+| Cześć | **Hola** | O-la | Wpadasz do baru i śpiewasz: „Oooo-laaa!” |
+| Proszę | **Por favor** | por fa-WOR | Mina księcia: „Zrób mi favor, królu” |
+| Dziękuję | **Gracias** | GRA-sjas | Kłaniasz się z gracją baletnicy |
+| Przepraszam | **Perdón** | per-DON | „Pardon, Don Pedro!” |
+| Chcę | **Quiero** | KJE-ro | Dziecko tupie: „KJE-ro! Chcę i już!” |
+| Potrzebuję | **Necesito** | ne-se-SI-to | Na walizce: „Nie se sit-o! Potrzebuję!” |
+| To / tamto | **Esto** | ES-to | Palec w menu: „ES-to! Właśnie to!” |
+| Woda | **Agua** | A-gła | „Aaaa, gładko weszła” |
+| Kawa | **Café** | ka-FE | Kawa daje „feee-ver energii” |
+| Rachunek | **La cuenta** | la KŁEN-ta | Konto płacze: „Kłęta! Znowu rachunek!” |
+| Gdzie jest…? | **¿Dónde está…?** | DON-de es-TA | „Donde está mój hotel?!” |
+| Ile kosztuje? | **¿Cuánto cuesta?** | KŁAN-to KŁES-ta | Kłaniasz się cenie: „Kłanto kłesta?!” |
+
+**Bonus awaryjny:** Nie rozumiem = **No entiendo** · Pomocy = **Ayuda** · Po angielsku? = **¿Habla inglés?**
+
+### Trzy formuły
+1. **Zamawianie:** `Hola + (rzecz) + por favor` → *Hola, agua, por favor.*
+2. **Wskazywanie palcem:** `Quiero + esto` → *Quiero esto, por favor.*
+3. **Ratunek:** `Perdón + no entiendo + ayuda` → *Perdón, no entiendo. Ayuda, por favor.*
+
+### Jedno zdanie uniwersalne (scyzoryk)
+> **Hola. Perdón. No entiendo. Necesito ayuda, por favor. Gracias.**
+
+### Scenki
+- **Kawiarnia:** *Hola. Un café, por favor.* → *Agua, por favor.* → *La cuenta, por favor. Gracias.*
+- **Restauracja:** *Hola. Quiero esto.* (palec w menu) → *Agua, por favor.* → *La cuenta, por favor.*
+- **Sklep / targ:** *Hola. ¿Cuánto cuesta?* → *Quiero esto, por favor.* / *No, gracias.*
+- **Metro / ulica:** *Perdón. ¿Dónde está el metro / el baño / la Sagrada Familia?*
+- **Hotel:** *Hola. Necesito ayuda / agua / un taxi.*
+- **Awaria / stres:** *Perdón. No entiendo. Ayuda, por favor.* / *¿Habla inglés?*
+
+**Zasada wyjazdowa:** nie mów idealnie — mów **Hola + por favor + jedno słowo + gracias**. To nie egzamin, to językowy multitool na Barcelonę.

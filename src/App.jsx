@@ -30,8 +30,10 @@ import {
   Route,
   PlayCircle,
   Download,
+  Languages,
 } from 'lucide-react';
 import { TRIP_META, ITINERARY, CHECKLIST } from './data/itinerary.js';
+import SurvivalSpanish from './SurvivalSpanish.jsx';
 
 /* ----------------------------- Helpers / atoms ---------------------------- */
 
@@ -430,8 +432,14 @@ const STATUS_TONES = {
 
 /* --------------------------------- App ------------------------------------ */
 
+const TABS = [
+  { key: 'plan', label: 'Plan podróży', icon: Calendar },
+  { key: 'spanish', label: 'Hiszpański survival', icon: Languages },
+];
+
 export default function App() {
   const [expandedDays, setExpandedDays] = useState(ITINERARY.map((d) => d.day));
+  const [activeTab, setActiveTab] = useState('plan');
 
   const toggleDay = (dayId) => {
     setExpandedDays((prev) =>
@@ -439,8 +447,45 @@ export default function App() {
     );
   };
 
+  const selectTab = (key) => {
+    setActiveTab(key);
+    window.scrollTo({ top: 0, behavior: 'auto' });
+  };
+
   return (
     <div className="min-h-screen bg-[#FDFBF7] font-sans text-stone-800">
+      {/* NAWIGACJA — zakładki */}
+      <nav className="sticky top-0 z-50 border-b border-stone-200 bg-[#FDFBF7]/90 backdrop-blur">
+        <div className="mx-auto flex max-w-5xl items-center justify-between gap-3 px-4 py-2.5 sm:px-6">
+          <span className="hidden font-serif text-base text-stone-700 sm:block">
+            Barcelona <span className="text-amber-600">2026</span>
+          </span>
+          <div className="flex w-full gap-1 sm:w-auto">
+            {TABS.map(({ key, label, icon: Icon }) => {
+              const active = activeTab === key;
+              return (
+                <button
+                  key={key}
+                  onClick={() => selectTab(key)}
+                  aria-current={active ? 'page' : undefined}
+                  className={`inline-flex flex-1 items-center justify-center gap-2 rounded-full px-4 py-2 text-sm font-semibold transition-colors sm:flex-none ${
+                    active
+                      ? 'bg-stone-900 text-amber-300 shadow'
+                      : 'text-stone-500 hover:bg-stone-100 hover:text-stone-800'
+                  }`}
+                >
+                  <Icon size={16} /> {label}
+                </button>
+              );
+            })}
+          </div>
+        </div>
+      </nav>
+
+      {activeTab === 'spanish' ? (
+        <SurvivalSpanish />
+      ) : (
+      <>
       {/* HERO */}
       <header className="relative flex min-h-[78vh] w-full flex-col items-center justify-center overflow-hidden bg-stone-900 p-6 text-center text-stone-50">
         <div className="pointer-events-none absolute inset-0">
@@ -966,6 +1011,8 @@ export default function App() {
           </div>
         </section>
       </main>
+      </>
+      )}
 
       {/* FOOTER */}
       <footer className="mt-12 border-t border-stone-900 bg-stone-950 py-12 text-center text-sm text-stone-400">

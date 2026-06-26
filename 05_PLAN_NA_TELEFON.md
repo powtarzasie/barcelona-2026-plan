@@ -161,3 +161,49 @@ Nawigacja: **Google Maps** lub aplikacja **TMB**.
 - **Pogotowie / policja / straż:** 112
 - **Policja turystyczna:** +34 93 256 24 30
 - **Karta EKUZ** — zabrać ze sobą!
+
+---
+
+## 🇪🇸 Hiszpański survival — 12 zwrotów, które wystarczą
+
+> Nie uczysz się języka. Uczysz się **12 klocków LEGO**, z których złożysz kawiarnię, restaurację, sklep, ulicę i sytuację awaryjną.
+> **Schemat:** `Hola. Por favor. Quiero…` (Cześć. Proszę. Chcę…). Zamień *Quiero* na *Necesito* (potrzebuję) — i to wystarczy na większość sytuacji.
+
+### Złota Dwunastka
+| Polski | Hiszpański | Wymowa | Mnemotechnika (głupia = działa) |
+|---|---|---|---|
+| Cześć | **Hola** | O-la | Wpadasz do baru i śpiewasz: „Oooo-laaa!” |
+| Proszę | **Por favor** | por fa-WOR | Mina księcia: „Zrób mi favor, królu” |
+| Dziękuję | **Gracias** | GRA-sjas | Kłaniasz się z gracją baletnicy |
+| Przepraszam | **Perdón** | per-DON | „Pardon, Don Pedro!” |
+| Chcę | **Quiero** | KJE-ro | Dziecko tupie: „KJE-ro! Chcę i już!” |
+| Potrzebuję | **Necesito** | ne-se-SI-to | Na walizce: „Nie se sit-o! Potrzebuję!” |
+| To / tamto | **Esto** | ES-to | Palec w menu: „ES-to! Właśnie to!” |
+| Woda | **Agua** | A-gła | „Aaaa, gładko weszła” |
+| Kawa | **Café** | ka-FE | Kawa daje „feee-ver energii” |
+| Rachunek | **La cuenta** | la KŁEN-ta | Konto płacze: „Kłęta! Znowu rachunek!” |
+| Gdzie jest…? | **¿Dónde está…?** | DON-de es-TA | „Donde está mój hotel?!” |
+| Ile kosztuje? | **¿Cuánto cuesta?** | KŁAN-to KŁES-ta | Kłaniasz się cenie: „Kłanto kłesta?!” |
+
+🆘 **Bonus awaryjny:** Nie rozumiem = **No entiendo** (no en-TJEN-do) · Pomocy = **Ayuda** (a-JU-da) · Po angielsku? = **¿Habla inglés?** (A-bla in-GLES)
+
+### 3 formuły
+1. **Zamawianie:** `Hola + (rzecz) + por favor` → *Hola, agua, por favor.*
+2. **Wskazywanie palcem:** `Quiero + esto` → *Quiero esto, por favor.* (działa na każde menu)
+3. **Ratunek:** `Perdón + no entiendo + ayuda` → *Perdón, no entiendo. Ayuda, por favor.*
+
+### Jedno zdanie uniwersalne (scyzoryk)
+> **Hola. Perdón. No entiendo. Necesito ayuda, por favor. Gracias.**
+> Cześć. Przepraszam. Nie rozumiem. Potrzebuję pomocy, proszę. Dziękuję.
+
+### Scenki
+- **Kawiarnia:** *Hola. Un café, por favor.* → *Agua, por favor.* → *La cuenta, por favor. Gracias.*
+- **Restauracja:** *Hola. Quiero esto.* (palec w menu) → *Agua, por favor.* → *La cuenta, por favor.*
+- **Sklep / targ:** *Hola. ¿Cuánto cuesta?* → *Quiero esto, por favor.* / *No, gracias.*
+- **Metro / ulica:** *Perdón. ¿Dónde está el metro?* / *…el baño?* / *…la Sagrada Familia?*
+- **Hotel:** *Hola. Necesito ayuda.* / *Necesito agua.* / *Necesito un taxi.*
+- **Awaria / stres:** *Perdón. No entiendo. Ayuda, por favor.* / *¿Habla inglés?*
+
+**Zasada wyjazdowa:** nie mów idealnie — mów **Hola + por favor + jedno słowo + gracias**. To nie egzamin, to językowy multitool na Barcelonę. 🎯
+
+> 📱 Na stronie jest osobna zakładka **„Hiszpański survival”** z wymową na głos (przycisk 🔊) i trybem ćwiczeń (zasłoń polski/hiszpański).
