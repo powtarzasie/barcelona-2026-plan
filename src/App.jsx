@@ -582,10 +582,10 @@ export default function App() {
             <img
               src="trasa-barcelona.jpg"
               alt="Mapa Barcelony z trasą wyjazdu i 20 ponumerowanymi punktami pogrupowanymi według dni"
-              className="mx-auto block w-full max-w-3xl"
+              className="mx-auto block w-full max-w-2xl"
               loading="lazy"
-              width="1600"
-              height="2160"
+              width="1054"
+              height="1492"
             />
           </a>
           <p className="mt-3 text-center text-sm text-stone-500">
