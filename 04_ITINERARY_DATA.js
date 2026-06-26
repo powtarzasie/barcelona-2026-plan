@@ -1,12 +1,11 @@
 // Barcelona 2–5 lipca 2026
-// Mariusz + żona | Residencia Erasmus Gràcia
+// On i Ona | Residencia Erasmus Gràcia
 
 export const TRIP_META = {
   destination: 'Barcelona',
   country: 'Hiszpania',
   dates: '2–5 lipca 2026',
-  participants: 'Mariusz + żona',
-  ages: '48 + 47',
+  participants: 'On i Ona 🙂',
   type: 'para / małżeństwo',
   accommodation: {
     name: 'Residencia Erasmus Gràcia',

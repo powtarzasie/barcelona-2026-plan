@@ -516,7 +516,7 @@ export default function App() {
               <ul className="space-y-3 text-sm text-stone-700">
                 <li className="flex justify-between gap-4 border-b border-amber-100 pb-2">
                   <span className="text-stone-500">Para</span>
-                  <span className="text-right font-medium">{TRIP_META.participants} · {TRIP_META.ages} lat</span>
+                  <span className="text-right font-medium">{TRIP_META.participants}</span>
                 </li>
                 <li className="flex justify-between gap-4 border-b border-amber-100 pb-2">
                   <span className="text-stone-500">Przylot</span>

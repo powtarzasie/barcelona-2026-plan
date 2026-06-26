@@ -1,5 +1,5 @@
 # Barcelona – plan wyjazdu
-### Mariusz + Agnieszka | 2–5 lipca 2026
+### On i Ona 🙂 | 2–5 lipca 2026
 
 ---
 
@@ -9,7 +9,7 @@
 |------|------|
 | **Kierunek** | Barcelona, Hiszpania |
 | **Daty** | 2–5 lipca 2026 (4 dni, 3 noce) |
-| **Uczestnicy** | Para — Mariusz (48 lat) + żona (47 lat) |
+| **Uczestnicy** | Para — On i Ona 🙂 |
 | **Charakter** | Małżeństwo, bez dzieci |
 | **Wylot** | Kraków → Barcelona–El Prat, 2 lipca, 07:05–09:50, Ryanair FR 3050 |
 | **Powrót** | Barcelona–El Prat → Kraków, 5 lipca, 21:40–00:30, Ryanair FR 3049 |

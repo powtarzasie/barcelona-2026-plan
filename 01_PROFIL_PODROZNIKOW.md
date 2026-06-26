@@ -8,7 +8,7 @@ _Opracowany na podstawie 35 nagrań audio (odpowiedzi na kwestionariusz, pytania
 
 **Główne słowo-klucz:** spokojny + kulinarny + aktywny + trochę plaży
 
-Mariusz powiedział wprost: „Główny klimat wyjazdu, jak dla mnie, spokojny, kulinarny, aktywny, trochę plaży — wolne. Może być."
+On powiedział wprost: „Główny klimat wyjazdu, jak dla mnie, spokojny, kulinarny, aktywny, trochę plaży — wolne. Może być."
 
 To jest „zaległa podróż sprzed 21 lat" — plany z wczesnych lat 2000. Plan ma brzmieć jak nadrobienie tamtego marzenia, a nie jak kolejna wycieczka z listy.
 
@@ -48,7 +48,7 @@ To oznacza: plan ma dawać doświadczenia, a nie zaliczać atrakcje. Czas razem 
 
 ## 4. Rzeczy, których unikać
 
-- Muzea i galerie (poza Camp Nou) — oboje mówią „niekoniecznie", Mariusz: „żeby sobie odpuścić"
+- Muzea i galerie (poza Camp Nou) — oboje mówią „niekoniecznie", On: „żeby sobie odpuścić"
 - Przeładowany harmonogram godzinowy — „dzień ma się toczyć", nie biec
 - Eleganckie restauracje — „nie musi być elegancko"
 - Najbardziej zatłoczone miejsca w godzinach szczytu — „jak da się uniknąć, to OK"
@@ -162,7 +162,7 @@ To oznacza: plan ma dawać doświadczenia, a nie zaliczać atrakcje. Czas razem 
 
 ## 13. Konflikty preferencji
 
-- **Muzea/galerie:** lekka różnica — Mariusz mówi „odpuść", partnerka „niekoniecznie lubi" → zbieżne, pomijamy muzea
+- **Muzea/galerie:** lekka różnica — On mówi „odpuść", Ona „niekoniecznie lubi" → zbieżne, pomijamy muzea
 - **Tempo:** oboje zbieżni — średnie
 - **Romantyzm:** oboje nie traktują go jako priorytet, ale są otwarci
 - Brak wyraźnych konfrontacyjnych preferencji między uczestnikami — para jest zgodna

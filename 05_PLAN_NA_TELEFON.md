@@ -1,5 +1,5 @@
 # Barcelona 2–5 lipca 2026 — plan na telefon
-### Mariusz + żona | Residencia Erasmus Gràcia
+### On i Ona 🙂 | Residencia Erasmus Gràcia
 
 ---
 
