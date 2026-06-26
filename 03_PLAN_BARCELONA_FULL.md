@@ -368,6 +368,19 @@ Bilet na Aerobús: online [aerobusbarcelona.es](https://www.aerobusbarcelona.es/
 | Espanya (Fontanna) | L3 → Espanya | 10 min | Nie |
 | Lotnisko | L3 → Zona Universitaria → L9 | 45 min | Tak (ZU) |
 
+### Metro dla początkujących
+
+**Jak jeździć:** kup bilet w automacie (jest angielski, karta) → przyłóż/włóż do bramki przy wejściu (zachowaj do końca) → znajdź linię po numerze i kolorze (L3 zielona, L4 żółta, L5 niebieska) → wybierz peron wg **kierunku = nazwy stacji końcowej** → pociągi co 2–5 min → wyjście „Sortida / Salida" (przy wyjściu nie kasujesz).
+Godziny: pn–czw i niedz. do ~24:00, pt do 02:00, sobota całą noc.
+
+**Co kupić na ten wyjazd:**
+- **2× T-Casual** (~€13/os.) — karta jednoosobowa, 10 przejazdów, metro+bus+FGC, strefa 1.
+- **2× bilet lotniskowy L9** (~€5,90/os.) na powrót — T-Casual nie działa na lotnisku.
+- **Aerobús** na przylot.
+- Alternatywa: **Hola Barcelona** (bez limitu, obejmuje lotnisko) — wygodniejsza, zwykle droższa. Ceny orientacyjne — potwierdzić na [tmb.cat](https://www.tmb.cat/).
+
+🎬 **Film po polsku — metro w Barcelonie:** [youtube.com/watch?v=0zHwDyRrXDQ](https://www.youtube.com/watch?v=0zHwDyRrXDQ)
+
 ---
 
 ## Jedzenie – podsumowanie rekomendacji

@@ -11,6 +11,12 @@ Metro: **Lesseps (L3)** — 200m od hotelu
 
 ---
 
+## 🔗 Strona i mapa trasy
+- **Strona wyjazdu (pełna):** https://powtarzasie.github.io/barcelona-2026-plan/
+- **Mapa trasy — 20 punktów:** https://powtarzasie.github.io/barcelona-2026-plan/trasa-barcelona.jpg
+
+---
+
 ## ✈️ DZIEŃ 1 — Czwartek, 2 lipca
 **Przylot 9:50 → Gràcia**
 
@@ -121,17 +127,33 @@ Metro: **Lesseps (L3)** — 200m od hotelu
 
 ---
 
-## 🚇 Transport — szybka ściągawka
+## 🚇 Metro dla początkujących + bilety
 
-**T-Casual:** €13/os, 10 przejazdów. Kupić na stacji metra.
-**Lotnisko L9:** €5.90/os. Osobny bilet! T-Casual NIE ważny!
-**Aerobús A2:** €11/os, T2 → Plaça Catalunya, co 10 min.
+**Jak jeździć (krok po kroku):**
+1. Kup bilet w automacie na stacji (jest angielski, płatność kartą).
+2. Przyłóż/włóż bilet do bramki przy wejściu — otworzy się. Zachowaj do końca.
+3. Znajdź linię po numerze i kolorze (L3 zielona, L4 żółta, L5 niebieska).
+4. Wybierz peron wg **kierunku = nazwy stacji końcowej** (np. L3 → „Trinitat Nova" albo „Zona Universitària").
+5. Pociągi co 2–5 min. Mapa linii nad drzwiami.
+6. Wyjście: szukaj „Sortida / Salida". Przy wyjściu nie kasujesz.
 
-Linie kluczowe:
-- **L3 (zielona):** Lesseps → Fontana → Diagonal → Espanya
+Godziny: pn–czw i niedz. do ~24:00, pt do 02:00, **sobota całą noc**.
+Nawigacja: **Google Maps** lub aplikacja **TMB**.
+
+**Co kupić na ten wyjazd:**
+- **2× T-casual** (~€13/os.) — 10 przejazdów/karta: metro + bus + FGC, strefa 1 (cała Barcelona). Karta **jednoosobowa** → dla pary dwie.
+- **2× bilet lotniskowy L9** (~€5,90/os.) na powrót 5 lipca — **T-casual NIE działa** na lotnisku!
+- **Aerobús** na przylot 2 lipca (T2 → Plaça Catalunya).
+- Alternatywa: **Hola Barcelona** (bez limitu, obejmuje lotnisko) — wygodniejsza, zwykle droższa.
+- _Ceny orientacyjne — potwierdź na tmb.cat._
+
+**Kluczowe linie (z hotelu Lesseps, L3):**
+- **L3 (zielona):** Lesseps → Diagonal → Passeig de Gràcia → Catalunya → Espanya
 - **L4 (żółta):** Barceloneta → Bogatell
 - **L5 (niebieska):** Sagrada Família → Collblanc (Camp Nou)
 - **L9 Sud:** Lotnisko T1/T2 → Zona Universitaria → centrum
+
+🎬 **Film po polsku — metro w Barcelonie:** https://www.youtube.com/watch?v=0zHwDyRrXDQ
 
 ---
 
