@@ -78,6 +78,7 @@ export const ITINERARY = [
       {
         time: '10:30',
         action: 'Aerobús A2 → Plaça Catalunya',
+        transport: 'Aerobús A2 (T2 → Pl. Catalunya) · ~40 min',
         desc: 'Terminal 2 → Plaça Catalunya. Co 10–15 min. Czas: 40 min. Bilet: €11/os.',
         mapsUrl: null,
         officialUrl: 'https://www.aerobusbarcelona.es/',
@@ -86,6 +87,7 @@ export const ITINERARY = [
       {
         time: '11:15',
         action: 'Metro L3 → Lesseps',
+        transport: 'Metro L3 (Catalunya → Lesseps, 5–6 przyst.) · ~12 min',
         desc: 'Plaça Catalunya → Lesseps (5–6 przystanków, 12 min). T-Casual lub bilet jednorazowy.',
         mapsUrl: 'https://www.google.com/maps/search/?api=1&query=41.4064,2.1548',
         officialUrl: 'https://www.tmb.cat/',
@@ -94,6 +96,7 @@ export const ITINERARY = [
       {
         time: '11:35',
         action: 'Residencia Erasmus Gràcia — zostawienie bagażu',
+        transport: 'Pieszo (Lesseps → hotel, 200 m) · 3 min',
         desc: 'Check-in od 14:00–15:00. Zostaw bagaż w recepcji i idź na lunch.',
         mapsUrl: 'https://www.google.com/maps/search/?api=1&query=41.4049,2.1558',
         officialUrl: 'https://www.residenciaerasmusgracia.com/en/',
@@ -102,6 +105,7 @@ export const ITINERARY = [
       {
         time: '12:00 – 13:30',
         action: 'Lunch w Gràcia',
+        transport: 'Pieszo (hotel → restauracja) · 5–10 min',
         desc: 'Pierwsze lokalne jedzenie. Bar Bodega Quimet (Carrer de Vic, 23) — tapas katalońskie. LUB Sol Soler na Plaça del Sol.',
         mapsUrl: 'https://www.google.com/maps/search/?api=1&query=41.4012,2.1612',
         officialUrl: null,
@@ -126,6 +130,7 @@ export const ITINERARY = [
       {
         time: '18:00 – 20:30 (OPCJA)',
         action: '🚴 TdF Team Presentation — Avinguda de Gaudí',
+        transport: 'Metro L3 (Lesseps → Verdaguer) · ~8 min + 10 min pieszo',
         desc: 'OPCJONALNIE: Metro do Verdaguer (L3, 3 przystanki). Prezentacja 23 drużyn Tour de France przy Sagrada Família. Darmowe! Sportowa atmosfera. Wyjdź przed 20:00.',
         mapsUrl: 'https://www.google.com/maps/search/?api=1&query=41.4069,2.1760',
         officialUrl: 'https://www.barcelona.com/things-to-do-in-barcelona/tour-de-france-2026-in-barcelona',
@@ -134,6 +139,7 @@ export const ITINERARY = [
       {
         time: '21:00 – 22:30',
         action: 'Kolacja w Gràcia',
+        transport: 'Pieszo (po Gràci) · 5–10 min',
         desc: 'Extra Bar (Carrer de Sant Domènec, 5) — wina naturalne i małe dania. LUB Oído (Carrer de la Providència, 41) — nowoczesne tapas.',
         mapsUrl: 'https://www.google.com/maps/search/?api=1&query=41.4015,2.1573',
         officialUrl: null,
@@ -237,6 +243,7 @@ export const ITINERARY = [
       {
         time: '10:00',
         action: 'Droga do Park Güell',
+        transport: 'Pieszo pod górę (hotel → Park Güell) · 20–25 min — lub metro L3 do Vallcarca + 10 min pieszo',
         desc: 'Pieszo 20–25 min pod górę (Torrent de l\'Olla → Carrer de l\'Escorial → Carrer del Cedrón). LUB Metro L3 Lesseps → Vallcarca + 10 min spacer.',
         mapsUrl: 'https://www.google.com/maps/search/?api=1&query=41.4138,2.1527',
         officialUrl: null,
@@ -253,6 +260,7 @@ export const ITINERARY = [
       {
         time: '12:30 – 13:15',
         action: 'Zejście + metro do Gràcia',
+        transport: 'Pieszo w dół lub bus (Park Güell → Lesseps) · ~15 min',
         desc: 'Zejście pieszo lub bus do Lesseps. Odpoczynek po wspinaczce.',
         mapsUrl: null,
         officialUrl: null,
@@ -277,6 +285,7 @@ export const ITINERARY = [
       {
         time: '15:30',
         action: 'Metro do centrum',
+        transport: 'Metro L3 (Lesseps → Urquinaona / Jaume I) · ~14 min',
         desc: 'L3 Lesseps → Urquinaona lub Jaume I. Czas: 12–15 min.',
         mapsUrl: null,
         officialUrl: null,
@@ -285,6 +294,7 @@ export const ITINERARY = [
       {
         time: '16:00 – 18:30',
         action: '🏛️ Gothic Quarter + El Born',
+        transport: 'Pieszo (trasa po Starym Mieście) · ~2,5 km łącznie',
         desc: 'Trasa piesza: Carrer del Bisbe (most neo-gotycki) → Katedra → Plaça de Sant Jaume → Plaça Reial → przez Carrer de Ferran do El Born → Carrer del Rec → Passeig del Born → Santa Maria del Mar.',
         mapsUrl: 'https://www.google.com/maps/search/?api=1&query=41.3837,2.1764',
         officialUrl: null,
@@ -293,6 +303,7 @@ export const ITINERARY = [
       {
         time: '18:30 – 19:30',
         action: '🛒 Mercat de Santa Caterina',
+        transport: 'Pieszo (z Gothic/El Born) · ~5 min',
         desc: 'Kolorowy targ — piękna falista dachówka, mniej turystyczny niż Boqueria. Przespaceruj się, kawa przy barze wewnątrz (Bar Joan). W piątek otwarty do 20:30!',
         mapsUrl: 'https://www.google.com/maps/search/?api=1&query=41.3846,2.1769',
         officialUrl: null,
@@ -301,6 +312,7 @@ export const ITINERARY = [
       {
         time: '19:30 – 20:30',
         action: 'Drink w El Born — El Xampanyet',
+        transport: 'Pieszo (Mercat → El Xampanyet) · ~5 min',
         desc: 'Cava i tapas. Kultowe miejsce przy Carrer de Montcada. Bez rezerwacji — może być kolejka.',
         mapsUrl: 'https://www.google.com/maps/search/?api=1&query=41.3850,2.1820',
         officialUrl: null,
@@ -309,6 +321,7 @@ export const ITINERARY = [
       {
         time: '21:00 – 22:30',
         action: 'Kolacja w Gràcia',
+        transport: 'Metro L4 + L3 (Jaume I → Lesseps) · ~20 min',
         desc: 'Bar Bodega Quimet (jeśli nie byłeś w Dniu 1) lub Tangana (Carrer de la Riera de Sant Miquel, 19).',
         mapsUrl: 'https://www.google.com/maps/search/?api=1&query=41.4012,2.1612',
         officialUrl: null,
@@ -317,6 +330,7 @@ export const ITINERARY = [
       {
         time: '22:30 (OPCJA)',
         action: '⛲ Fontanna Magiczna Montjuïc',
+        transport: 'Metro L3 (Lesseps → Espanya) · ~12 min + 5 min pieszo',
         desc: 'Jeśli masz energię: Metro L3 do Espanya (10 min), spacer 5 min. Darmowy pokaz muzyczno-świetlny (ok. 21:00 i 21:30). Powrót ok. 23:00.',
         mapsUrl: 'https://www.google.com/maps/search/?api=1&query=41.3716,2.1528',
         officialUrl: 'https://www.barcelona.cat/en/what-to-do-in-bcn/magic-fountain',
@@ -448,6 +462,7 @@ export const ITINERARY = [
       {
         time: '09:20',
         action: 'Metro do Sagrada Família',
+        transport: 'Metro L3 (Lesseps → Verdaguer) · ~8 min + 10 min pieszo',
         desc: 'L3 Lesseps → Verdaguer (3 przystanki, 6 min) → spacer 10 min do SF. LUB bus 19 lub 33 z Lesseps.',
         mapsUrl: 'https://www.google.com/maps/search/?api=1&query=41.4036,2.1743',
         officialUrl: null,
@@ -464,6 +479,7 @@ export const ITINERARY = [
       {
         time: '10:15 – 11:00',
         action: 'Metro L5 do Camp Nou',
+        transport: 'Metro L5 (Sagrada Família → Collblanc) · ~12 min + 10 min pieszo',
         desc: 'Sagrada Família (L5) → Collblanc (~10 min) → spacer 10 min przez Av. de Joan XXIII.',
         mapsUrl: 'https://www.google.com/maps/search/?api=1&query=41.3809,2.1228',
         officialUrl: null,
@@ -480,6 +496,7 @@ export const ITINERARY = [
       {
         time: '13:15 – 14:00',
         action: 'Szybki lunch',
+        transport: 'Metro (Camp Nou → Eixample) · ~10–15 min',
         desc: 'Tapas bar w Eixample. Carrer d\'Urgell lub Carrer del Consell de Cent (zanim drogi pełne są zamknięte). Można też wrócić do hotelu i zjeść w Gràcia.',
         mapsUrl: null,
         officialUrl: null,
@@ -488,6 +505,7 @@ export const ITINERARY = [
       {
         time: '14:00 – 17:30',
         action: '🚴 Oglądanie Tour de France Etap 1',
+        transport: 'Metro L3/L5 (→ Passeig de Gràcia) · ~10 min',
         desc: 'DARMOWE! Stań przy trasie. Opcje: A) Passeig de Gràcia (Metro L3, widok na Casa Batlló). B) Carrer de Mallorca przy Sagrada Família. Rowerzyści przejeżdżają falami przez 3+ godziny. Festynowa atmosfera, piwo przy trasie.',
         mapsUrl: 'https://www.google.com/maps/search/?api=1&query=41.3917,2.1648',
         officialUrl: 'https://www.barcelona.cat/mobilitat/en/mobility-impacts-tour-france-2026/4-july-stage-1-time-trial',
@@ -496,6 +514,7 @@ export const ITINERARY = [
       {
         time: '17:30 – 19:00',
         action: 'Odpoczynek w hotelu',
+        transport: 'Metro L3 (Passeig de Gràcia → Lesseps) · ~10 min',
         desc: 'Powrót metrem (L3 Passeig de Gràcia → Lesseps). Prysznic, odpoczynek — zasłużony po wielkim dniu.',
         mapsUrl: null,
         officialUrl: null,
@@ -504,6 +523,7 @@ export const ITINERARY = [
       {
         time: '19:30',
         action: 'Metro do Barcelonety',
+        transport: 'Metro L3 + L4 (Lesseps → Barceloneta) · ~22 min',
         desc: 'L3 Lesseps → Passeig de Gràcia → L4 → Barceloneta. Czas ok. 20 min.',
         mapsUrl: null,
         officialUrl: null,
@@ -512,6 +532,7 @@ export const ITINERARY = [
       {
         time: '20:00 – 22:00',
         action: '🦐 KOLACJA — Can Ros lub Can Solé (owoce morza)',
+        transport: 'Pieszo (stacja Barceloneta → restauracja) · ~5 min',
         desc: 'Najlepsza kolacja wyjazdu. Can Ros (od 1908, piąte pokolenie) lub Can Solé (od 1903). Paella owoce morza, świeże ryby. REZERWACJA KONIECZNA — zadzwoń 1–2 dni wcześniej.',
         mapsUrl: 'https://www.google.com/maps/search/?api=1&query=41.3783,2.1864',
         officialUrl: null,
@@ -653,6 +674,7 @@ export const ITINERARY = [
       {
         time: '12:00 – 15:00 (OPCJA A)',
         action: '🏖️ Plaża Bogatell',
+        transport: 'Metro L3 + L4 (Lesseps → Bogatell) · ~25 min',
         desc: 'Metro L3 Lesseps → Passeig de Gràcia → L4 → Bogatell (ok. 25 min). Spokojniejsza niż Barceloneta. Chiringuito (beach bar) po drodze. Pilnuj rzeczy!',
         mapsUrl: 'https://www.google.com/maps/search/?api=1&query=41.3968,2.2022',
         officialUrl: null,
@@ -669,6 +691,7 @@ export const ITINERARY = [
       {
         time: '15:00 – 17:00',
         action: 'Ostatni lunch / tapas',
+        transport: 'Metro L4 + L3 (Bogatell → Lesseps) · ~25 min — lub pieszo, jeśli zostajecie w Gràci',
         desc: 'Sol Soler (Plaça del Sol, 21) lub Bar Bodega Quimet. Pożegnalne wino lub piwo. Czas się nie spieszyć, poczuć dzielnicę.',
         mapsUrl: 'https://www.google.com/maps/search/?api=1&query=41.4028,2.1573',
         officialUrl: null,
@@ -685,6 +708,7 @@ export const ITINERARY = [
       {
         time: '17:30 – 18:00',
         action: 'Metro na lotnisko',
+        transport: 'Metro L3 + L9 Sud (Lesseps → Zona Universitaria → Aeroport T2) · ~45–50 min',
         desc: 'L3 Lesseps → Zona Universitaria (4 przystanki) → przesiadka na L9 Sud → Airport T2 (Ryanair). Czas: ok. 45–50 min. BILET LOTNISKOWY L9: €5.90/os. (T-Casual NIE ważny!).',
         mapsUrl: 'https://www.google.com/maps/search/?api=1&query=41.2966,2.0833',
         officialUrl: 'https://www.tmb.cat/',

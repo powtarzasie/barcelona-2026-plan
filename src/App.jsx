@@ -27,6 +27,7 @@ import {
   ShieldAlert,
   Flame,
   Users,
+  Route,
 } from 'lucide-react';
 import { TRIP_META, ITINERARY, CHECKLIST } from './data/itinerary.js';
 
@@ -117,6 +118,12 @@ function ScheduleItem({ slot }) {
         <span className="font-bold text-stone-800">{slot.action}</span>
       </div>
       <p className="text-sm leading-relaxed text-stone-600">{slot.desc}</p>
+      {slot.transport && (
+        <div className="mt-2 inline-flex items-center gap-1.5 rounded-md border border-blue-100 bg-blue-50 px-2.5 py-1 text-xs font-medium text-blue-700">
+          <Route size={13} className="shrink-0" />
+          <span>Dojazd: {slot.transport}</span>
+        </div>
+      )}
       {(slot.mapsUrl || slot.bookingUrl || slot.officialUrl) && (
         <div className="mt-2 flex flex-wrap gap-2">
           <LinkPill href={slot.mapsUrl} icon={MapIcon} label="Mapa" tone="map" />
