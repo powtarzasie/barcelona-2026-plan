@@ -29,6 +29,7 @@ import {
   Users,
   Route,
   PlayCircle,
+  Download,
 } from 'lucide-react';
 import { TRIP_META, ITINERARY, CHECKLIST } from './data/itinerary.js';
 
@@ -481,6 +482,14 @@ export default function App() {
               </span>
             ))}
           </div>
+          <a
+            href="Barcelona-plan-telefon.pdf"
+            target="_blank"
+            rel="noreferrer"
+            className="mt-7 inline-flex items-center gap-2 rounded-full bg-amber-400 px-5 py-2.5 text-sm font-semibold text-stone-900 shadow-lg transition-colors hover:bg-amber-300"
+          >
+            <Download size={16} /> Pobierz plan PDF (do druku)
+          </a>
         </div>
       </header>
 
