@@ -566,6 +566,33 @@ export default function App() {
           </div>
         </section>
 
+        {/* MAPA TRASY */}
+        <section>
+          <SectionHeader
+            icon={MapIcon}
+            title="Mapa trasy"
+            subtitle="Cała trasa i 20 ponumerowanych punktów — dzień po dniu, z lotniskiem i transferami."
+          />
+          <a
+            href="trasa-barcelona.jpg"
+            target="_blank"
+            rel="noreferrer"
+            className="block overflow-hidden rounded-3xl border border-stone-200 bg-white shadow-sm transition-shadow hover:shadow-md"
+          >
+            <img
+              src="trasa-barcelona.jpg"
+              alt="Mapa Barcelony z trasą wyjazdu i 20 ponumerowanymi punktami pogrupowanymi według dni"
+              className="mx-auto block w-full max-w-3xl"
+              loading="lazy"
+              width="1600"
+              height="2160"
+            />
+          </a>
+          <p className="mt-3 text-center text-sm text-stone-500">
+            Kliknij mapę, aby otworzyć w pełnym rozmiarze.
+          </p>
+        </section>
+
         {/* ROZKŁAD DNI */}
         <section id="plan">
           <SectionHeader
