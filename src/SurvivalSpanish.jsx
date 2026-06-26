@@ -17,6 +17,7 @@ import {
   Clock,
   Star,
   ListChecks,
+  Download,
 } from 'lucide-react';
 import { PHRASES, EMERGENCY, FORMULAS, UNIVERSAL, SCENES, TRAINING, CHEATSHEET } from './data/spanish.js';
 
@@ -215,6 +216,14 @@ export default function SurvivalSpanish() {
             Nie uczysz się języka. Uczysz się <b className="font-medium text-white">12 klocków LEGO</b>,
             z których złożysz kawiarnię, restaurację, sklep, ulicę i sytuację awaryjną. ¡Vamos!
           </p>
+          <a
+            href="Barcelona-hiszpanski.pdf"
+            target="_blank"
+            rel="noreferrer"
+            className="mt-7 inline-flex items-center gap-2 rounded-full bg-amber-400 px-5 py-2.5 text-sm font-semibold text-stone-900 shadow-lg transition-colors hover:bg-amber-300"
+          >
+            <Download size={16} /> Pobierz ściągę PDF (na telefon)
+          </a>
         </div>
       </header>
 
@@ -431,12 +440,14 @@ export default function SurvivalSpanish() {
                 Najmniejsza możliwa ściąga — zerknij i ruszaj. Zrób zrzut ekranu na telefon.
               </p>
             </div>
-            <button
-              onClick={() => window.print()}
+            <a
+              href="Barcelona-hiszpanski.pdf"
+              target="_blank"
+              rel="noreferrer"
               className="inline-flex items-center gap-2 self-start rounded-full border border-stone-300 bg-white px-4 py-2 text-sm font-semibold text-stone-700 shadow-sm transition-colors hover:bg-stone-50 sm:self-auto"
             >
-              <Printer size={15} /> Drukuj / zapisz PDF
-            </button>
+              <Printer size={15} /> Pobierz / drukuj PDF
+            </a>
           </div>
           <div className="overflow-hidden rounded-3xl border border-stone-200 bg-white shadow-sm">
             <ul className="grid grid-cols-1 sm:grid-cols-2">
