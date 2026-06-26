@@ -28,6 +28,7 @@ import {
   Flame,
   Users,
   Route,
+  PlayCircle,
 } from 'lucide-react';
 import { TRIP_META, ITINERARY, CHECKLIST } from './data/itinerary.js';
 
@@ -866,6 +867,94 @@ export default function App() {
             biletów i ostateczne mapy zamknięć ulic tuż przed wyjazdem — szczegóły w pliku
             06_CHECKLISTA_REZERWACJI.md.
           </p>
+        </section>
+
+        {/* METRO DLA POCZĄTKUJĄCYCH */}
+        <section>
+          <SectionHeader
+            icon={Train}
+            title="Metro dla początkujących"
+            subtitle="Barcelońskie metro (TMB) jest proste, czyste i szybkie — oto wszystko, czego potrzebujecie."
+          />
+
+          <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
+            <div className="rounded-3xl border border-stone-200 bg-white p-7 shadow-sm">
+              <h3 className="mb-4 flex items-center gap-2 font-serif text-xl text-stone-800">
+                <Train className="text-blue-600" /> Jak jeździć — krok po kroku
+              </h3>
+              <ol className="space-y-3 text-sm leading-relaxed text-stone-700">
+                <li><b className="text-stone-900">1.</b> Kup bilet w automacie na stacji (jest język angielski, płatność kartą).</li>
+                <li><b className="text-stone-900">2.</b> Przyłóż lub włóż bilet do bramki przy wejściu — otworzy się. Zachowaj bilet do końca.</li>
+                <li><b className="text-stone-900">3.</b> Znajdź swoją linię po numerze i kolorze (np. L3 = zielona, L4 = żółta, L5 = niebieska).</li>
+                <li><b className="text-stone-900">4.</b> Wybierz peron według <b>kierunku = nazwy stacji końcowej</b> (np. L3 w stronę „Trinitat Nova" albo „Zona Universitària").</li>
+                <li><b className="text-stone-900">5.</b> Pociągi co 2–5 min. Nad drzwiami i na tablicach jest mapa linii i kolejne stacje.</li>
+                <li><b className="text-stone-900">6.</b> Wysiądź na swojej stacji i idź do wyjścia „Sortida / Salida". Przy wyjściu nie trzeba kasować.</li>
+              </ol>
+              <p className="mt-4 rounded-xl bg-stone-50 p-3 text-xs leading-relaxed text-stone-600">
+                Nawigacja: <b>Google Maps</b> lub aplikacja <b>TMB</b> podają linię, kierunek i przesiadki.
+                Godziny: pn–czw i niedz. do ok. 24:00, pt do 02:00, <b>sobota całą noc</b>. Uważajcie na
+                kieszonkowców przy bramkach i w tłoku.
+              </p>
+            </div>
+
+            <div className="rounded-3xl border border-amber-200 bg-amber-50 p-7 shadow-sm">
+              <h3 className="mb-4 flex items-center gap-2 font-serif text-xl text-stone-800">
+                <Ticket className="text-amber-600" /> Co kupić na ten wyjazd
+              </h3>
+              <ul className="space-y-4 text-sm leading-relaxed text-stone-700">
+                <li>
+                  <b>2× T-casual</b> (po ok. €13/os.) — 10 przejazdów na kartę: metro, autobus i FGC,
+                  strefa 1 (cała Barcelona). Karta jest <b>jednoosobowa</b>, więc dla pary kupujecie dwie.
+                  ~20 przejazdów spokojnie starcza na cały plan.
+                </li>
+                <li>
+                  <b>Lotnisko osobno:</b> T-casual <b>nie działa</b> na metrze L9 do/z lotniska.
+                  Na powrót 5 lipca kupcie <b>2× bilet lotniskowy</b> (ok. €5,90/os.); na przylot 2 lipca
+                  plan zakłada <b>Aerobús</b>.
+                </li>
+                <li className="text-stone-600">
+                  <b>Alternatywa:</b> <b>Hola Barcelona Travel Card</b> (48/72/96 h, przejazdy bez limitu,
+                  <b> obejmuje też metro lotniskowe L9</b>) — wygodniejsza, ale dla Was zwykle droższa niż
+                  2× T-casual + bilety lotniskowe.
+                </li>
+              </ul>
+              <div className="mt-4 flex flex-wrap gap-2">
+                <LinkPill href="https://www.tmb.cat/en/barcelona-fares-metro-bus/t-casual" icon={ExternalLink} label="T-casual (TMB)" tone="official" />
+                <LinkPill href="https://www.tmb.cat/en/barcelona/transport-tickets-barcelona" icon={ExternalLink} label="Wszystkie bilety TMB" tone="official" />
+              </div>
+              <p className="mt-3 text-xs italic text-stone-500">
+                Ceny orientacyjne — potwierdźcie aktualne stawki na tmb.cat tuż przed wyjazdem.
+              </p>
+            </div>
+          </div>
+
+          <div className="mt-6 rounded-3xl border border-stone-200 bg-white p-6 shadow-sm">
+            <h3 className="mb-1 flex items-center gap-2 font-serif text-xl text-stone-800">
+              <PlayCircle className="text-red-600" /> Wideo: metro w Barcelonie po polsku
+            </h3>
+            <p className="mb-4 text-sm text-stone-500">
+              Krótki przewodnik wyjaśniony przez Polaka — jak kupić bilet i poruszać się metrem.
+            </p>
+            <div className="aspect-video w-full overflow-hidden rounded-2xl bg-stone-900">
+              <iframe
+                className="h-full w-full"
+                src="https://www.youtube-nocookie.com/embed/0zHwDyRrXDQ"
+                title="Metro w Barcelonie — przewodnik po polsku"
+                loading="lazy"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerPolicy="strict-origin-when-cross-origin"
+                allowFullScreen
+              />
+            </div>
+            <a
+              href="https://www.youtube.com/watch?v=0zHwDyRrXDQ"
+              target="_blank"
+              rel="noreferrer"
+              className="mt-3 inline-flex items-center gap-1.5 text-sm font-medium text-blue-700 hover:text-blue-800"
+            >
+              <ExternalLink size={14} /> Otwórz na YouTube
+            </a>
+          </div>
         </section>
       </main>
 
