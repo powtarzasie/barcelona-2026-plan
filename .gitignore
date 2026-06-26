@@ -1,0 +1,18 @@
+# Dependencies & build
+node_modules/
+dist/
+*.log
+
+# Local tooling / editor
+.claude/
+.vscode/
+.DS_Store
+
+# PRYWATNE — nie publikować
+# Surowe nagrania głosowe podróżników i transkrypcje rozmowy
+*.m4a
+transkrypcje/
+
+# Temp
+bcn_hero*.jpg
+chk_*.jpg
