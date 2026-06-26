@@ -219,6 +219,23 @@ export default function SurvivalSpanish() {
       </header>
 
       <main className="mx-auto max-w-5xl space-y-20 px-4 py-16 sm:px-6">
+        {/* GRAFIKA — mantra na start */}
+        <section>
+          <div className="overflow-hidden rounded-3xl border border-stone-200 bg-white shadow-sm">
+            <img
+              src="hola-banner.svg"
+              alt="Śpiewający operowo Hiszpan w barze tapas — Hola znaczy Cześć"
+              className="mx-auto block w-full max-w-3xl"
+              loading="lazy"
+              width="1200"
+              height="640"
+            />
+          </div>
+          <p className="mt-3 text-center text-sm text-stone-500">
+            Pierwszy klocek: <b className="text-stone-700">Hola</b> = Cześć. Reszta pójdzie z górki. 🎶
+          </p>
+        </section>
+
         {/* NAJWAŻNIEJSZY SCHEMAT */}
         <section>
           <div className="rounded-3xl border border-amber-200 bg-amber-50 p-8 text-center shadow-inner sm:p-10">

@@ -1,0 +1,125 @@
+<svg viewBox="0 0 1200 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Śpiewający operowo Hiszpan w barze tapas — Hola znaczy Cześć">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="75%">
+      <stop offset="0%" stop-color="#FCF4E1"/>
+      <stop offset="100%" stop-color="#F3E4C4"/>
+    </radialGradient>
+    <linearGradient id="banner" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F6C24B"/>
+      <stop offset="100%" stop-color="#EBA92F"/>
+    </linearGradient>
+    <linearGradient id="ribbon" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FDF8EC"/>
+      <stop offset="100%" stop-color="#F6EAD0"/>
+    </linearGradient>
+    <pattern id="azulejo" width="44" height="44" patternUnits="userSpaceOnUse">
+      <rect width="44" height="44" fill="#2E5AA8"/>
+      <path d="M22 6 L30 14 L22 22 L14 14 Z" fill="#EAF1FB"/>
+      <circle cx="22" cy="22" r="3" fill="#EAF1FB"/>
+      <path d="M6 22 L14 14 M38 22 L30 14 M6 22 L14 30 M38 22 L30 30" stroke="#EAF1FB" stroke-width="2" fill="none"/>
+    </pattern>
+  </defs>
+
+  <!-- Frame -->
+  <rect x="12" y="12" width="1176" height="616" rx="30" fill="url(#bg)" stroke="#B5322C" stroke-width="12"/>
+  <rect x="30" y="30" width="1140" height="580" rx="20" fill="none" stroke="#E8A13A" stroke-width="3" stroke-dasharray="4 10"/>
+
+  <!-- Azulejo corner accents -->
+  <rect x="34" y="34" width="64" height="64" rx="8" fill="url(#azulejo)" opacity="0.9"/>
+  <rect x="1102" y="34" width="64" height="64" rx="8" fill="url(#azulejo)" opacity="0.9"/>
+  <rect x="34" y="542" width="64" height="64" rx="8" fill="url(#azulejo)" opacity="0.9"/>
+  <rect x="1102" y="542" width="64" height="64" rx="8" fill="url(#azulejo)" opacity="0.9"/>
+
+  <!-- Top banner: HOLA = CZEŚĆ -->
+  <rect x="150" y="48" width="900" height="104" rx="20" fill="url(#banner)" stroke="#B5322C" stroke-width="7"/>
+  <text x="600" y="120" text-anchor="middle" font-family="'Arial Black','Arial',sans-serif" font-weight="900" font-size="66" letter-spacing="2">
+    <tspan fill="#B5322C">HOLA</tspan><tspan fill="#3a3a3a"> = </tspan><tspan fill="#2E5AA8">CZEŚĆ</tspan>
+  </text>
+
+  <!-- ===== Singer ===== -->
+  <!-- Outstretched arms (behind body) -->
+  <path d="M455 360 Q360 330 300 296" stroke="#1c1c1c" stroke-width="34" fill="none" stroke-linecap="round"/>
+  <path d="M545 360 Q640 330 700 296" stroke="#1c1c1c" stroke-width="34" fill="none" stroke-linecap="round"/>
+  <circle cx="294" cy="292" r="20" fill="#EBB089"/>
+  <circle cx="706" cy="292" r="20" fill="#EBB089"/>
+
+  <!-- Tux jacket -->
+  <path d="M430 470 Q416 360 500 338 Q584 360 570 470 Z" fill="#1c1c1c"/>
+  <!-- White shirt -->
+  <path d="M500 348 L476 470 L524 470 Z" fill="#FBFBF7"/>
+  <!-- Cummerbund -->
+  <rect x="476" y="432" width="48" height="26" rx="4" fill="#B5322C"/>
+  <!-- Pocket square -->
+  <path d="M548 388 l16 0 -8 16 z" fill="#B5322C"/>
+  <!-- Bow tie -->
+  <path d="M500 352 L482 343 L482 361 Z" fill="#1c1c1c"/>
+  <path d="M500 352 L518 343 L518 361 Z" fill="#1c1c1c"/>
+  <circle cx="500" cy="352" r="5" fill="#000"/>
+
+  <!-- Neck -->
+  <rect x="488" y="316" width="24" height="22" fill="#E5A77E"/>
+  <!-- Head -->
+  <circle cx="500" cy="278" r="48" fill="#EBB089"/>
+  <!-- Ears -->
+  <circle cx="453" cy="282" r="9" fill="#E5A77E"/>
+  <circle cx="547" cy="282" r="9" fill="#E5A77E"/>
+  <!-- Hair -->
+  <path d="M456 256 Q452 214 500 212 Q548 214 544 256 Q536 238 516 240 Q508 224 500 236 Q492 224 484 240 Q464 238 456 256 Z" fill="#171717"/>
+  <circle cx="462" cy="250" r="13" fill="#171717"/>
+  <circle cx="538" cy="250" r="13" fill="#171717"/>
+  <!-- Eyes (closed, singing) -->
+  <path d="M468 270 Q478 264 488 270" stroke="#3b2418" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M512 270 Q522 264 532 270" stroke="#3b2418" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Cheeks -->
+  <circle cx="466" cy="294" r="9" fill="#E89B82" opacity="0.55"/>
+  <circle cx="534" cy="294" r="9" fill="#E89B82" opacity="0.55"/>
+  <!-- Mustache -->
+  <path d="M500 300 Q484 296 470 304 Q484 306 500 302 Q516 306 530 304 Q516 296 500 300 Z" fill="#171717"/>
+  <!-- Open singing mouth -->
+  <ellipse cx="500" cy="318" rx="13" ry="17" fill="#7A1020"/>
+  <ellipse cx="500" cy="326" rx="8" ry="7" fill="#C0566B"/>
+
+  <!-- Sound waves -->
+  <path d="M560 300 Q580 308 560 322" stroke="#B5322C" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.6"/>
+  <path d="M576 292 Q606 308 576 330" stroke="#E8A13A" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- ===== Musical notes ===== -->
+  <g>
+    <ellipse cx="746" cy="300" rx="17" ry="12" transform="rotate(-18 746 300)" fill="#2E5AA8"/>
+    <rect x="760" y="232" width="6" height="70" fill="#2E5AA8"/>
+    <path d="M766 232 q22 6 18 30 q-6 -16 -18 -14 z" fill="#2E5AA8"/>
+  </g>
+  <g>
+    <ellipse cx="858" cy="252" rx="19" ry="13" transform="rotate(-18 858 252)" fill="#E8A13A"/>
+    <rect x="874" y="176" width="7" height="78" fill="#E8A13A"/>
+    <path d="M881 176 q26 8 20 34 q-6 -18 -20 -16 z" fill="#E8A13A"/>
+  </g>
+  <g>
+    <ellipse cx="820" cy="372" rx="14" ry="10" transform="rotate(-18 820 372)" fill="#B5322C"/>
+    <rect x="832" y="318" width="5" height="56" fill="#B5322C"/>
+    <path d="M837 318 q18 5 15 24 q-5 -13 -15 -11 z" fill="#B5322C"/>
+  </g>
+
+  <!-- ===== Tapas props ===== -->
+  <!-- Wine glass (left) -->
+  <path d="M150 446 q0 40 30 46 l0 38 -18 0 0 12 54 0 0 -12 -18 0 0 -38 q30 -6 30 -46 z" fill="#FBFBF7" stroke="#C9B79A" stroke-width="3"/>
+  <path d="M156 452 q4 30 24 36 q20 -6 24 -36 z" fill="#7A1020"/>
+  <!-- Olives plate (center) -->
+  <ellipse cx="500" cy="512" rx="68" ry="15" fill="#FBFBF7" stroke="#C9B79A" stroke-width="3"/>
+  <circle cx="474" cy="506" r="10" fill="#7E9B3A"/>
+  <circle cx="500" cy="510" r="10" fill="#8AA844"/>
+  <circle cx="526" cy="506" r="10" fill="#7E9B3A"/>
+  <path d="M482 502 l-5 -7 M508 504 l5 -7" stroke="#C9302C" stroke-width="2" stroke-linecap="round"/>
+  <!-- Sangria jug (right) -->
+  <path d="M1000 470 q-26 0 -26 26 l0 44 q0 18 26 18 q26 0 26 -18 l0 -44 q0 -26 -26 -26 z" fill="#FBE9EC" stroke="#C9B79A" stroke-width="3"/>
+  <path d="M976 506 l48 0 0 32 q0 14 -24 14 q-24 0 -24 -14 z" fill="#A0263B"/>
+  <path d="M1026 484 q22 6 16 30" stroke="#C9B79A" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <circle cx="990" cy="498" r="5" fill="#E8A13A"/>
+  <circle cx="1010" cy="500" r="4" fill="#E8A13A"/>
+
+  <!-- Bottom ribbon -->
+  <rect x="118" y="556" width="964" height="62" rx="16" fill="url(#ribbon)" stroke="#B5322C" stroke-width="5"/>
+  <text x="600" y="595" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="29" font-weight="700">
+    <tspan fill="#3a3a3a">Zapamiętaj: śpiewasz operowo </tspan><tspan fill="#B5322C" font-family="'Arial Black',Arial,sans-serif" font-weight="900">OOO‑LAAA!</tspan>
+  </text>
+</svg>
