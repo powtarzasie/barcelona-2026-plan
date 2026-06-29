@@ -41,19 +41,21 @@ Metro: **Lesseps (L3)** — 200m od hotelu
 
 | Czas | Co | Link |
 |------|----|------|
-| 09:00 | Śniadanie w hotelu | — |
-| 10:00 | **Park Güell** (bilet → 10:00 slot!) | [📍](https://www.google.com/maps/search/?api=1&query=41.4138,2.1527) · [Bilety](https://parkguell.barcelona/en/buy-tickets) |
-| 12:30 | Powrót do Gràcia, lunch | — |
-| 14:30 | Sjesta w hotelu (1h) | — |
-| 15:30 | Metro **L3** → Urquinaona | — |
-| 16:00 | **Gothic Quarter**: Carrer del Bisbe → Katedra → Plaça Reial | [📍](https://www.google.com/maps/search/?api=1&query=41.3837,2.1764) |
-| 17:30 | **El Born**: Passeig del Born → Santa Maria del Mar | [📍](https://www.google.com/maps/search/?api=1&query=41.3844,2.1821) |
-| 18:30 | **Mercat Santa Caterina** (otwarte do 20:30!) | [📍](https://www.google.com/maps/search/?api=1&query=41.3846,2.1769) |
-| 19:30 | Drink — **El Xampanyet** (cava + tapas, El Born) | [📍](https://www.google.com/maps/search/?api=1&query=41.3850,2.1820) |
+| 09:00 | Śniadanie w hotelu (dziś bez pośpiechu) | — |
+| 10:45 | Wyjście do Park Güell (pieszo 20–25 min pod górę) | — |
+| 11:30 | **Park Güell** (bilet → slot **11:30**!) | [📍](https://www.google.com/maps/search/?api=1&query=41.4138,2.1527) · [Bilety](https://parkguell.barcelona/en/buy-tickets) |
+| 14:00 | Powrót do Gràcia, lunch | — |
+| 15:15 | Sjesta w hotelu (45 min) | — |
+| 16:00 | Metro **L3** → Urquinaona | — |
+| 16:30 | **Gothic Quarter**: Carrer del Bisbe → Katedra → Plaça Reial | [📍](https://www.google.com/maps/search/?api=1&query=41.3837,2.1764) |
+| 17:45 | **El Born**: Passeig del Born → Santa Maria del Mar | [📍](https://www.google.com/maps/search/?api=1&query=41.3844,2.1821) |
+| 19:00 | **Mercat Santa Caterina** (otwarte do 20:30!) | [📍](https://www.google.com/maps/search/?api=1&query=41.3846,2.1769) |
+| 19:45 | Drink — **El Xampanyet** (cava + tapas, El Born) | [📍](https://www.google.com/maps/search/?api=1&query=41.3850,2.1820) |
 | 21:00 | **Kolacja** w Gràcia — Tangana lub Bodega Quimet | — |
 | 22:30 | **OPCJA:** Fontanna Magiczna Montjuïc (L3 → Espanya, darmowe) | [📍](https://www.google.com/maps/search/?api=1&query=41.3716,2.1528) |
 
-> **Alert:** Park Güell bilety OBOWIĄZKOWE z wyprzedzeniem — brak biletów przy kasie!
+> **Alert:** Park Güell bilety OBOWIĄZKOWE z wyprzedzeniem (slot **11:30**) — brak biletów przy kasie!
+> **Upał:** slot 11:30 = pełne słońce — woda, czapka, SPF 50, trzymaj się cienia.
 
 ---
 

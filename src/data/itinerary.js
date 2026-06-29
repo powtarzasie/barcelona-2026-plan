@@ -228,36 +228,36 @@ export const ITINERARY = [
     intensity: 'średnia',
     steps: '14 000 – 18 000',
     cost: '€120 – €160 para',
-    weather: '28–33°C. Park Güell rano, kiedy jest najchłodniej.',
-    alert: '⚠️ Bilety Park Güell — OBOWIĄZKOWE z wyprzedzeniem. Brak biletów przy kasie. Zarezerwuj online!',
+    weather: '28–33°C. Park Güell w słońcu (slot 11:30) — woda, czapka, SPF 50 i zacienione punkty widokowe.',
+    alert: '⚠️ Bilety Park Güell — OBOWIĄZKOWE z wyprzedzeniem (slot 11:30). Brak biletów przy kasie. Zarezerwuj online!',
     schedule: [
       {
-        time: '09:00 – 09:45',
+        time: '09:00 – 10:00',
         action: 'Śniadanie w hotelu',
-        desc: 'Zarezerwowane — korzystaj w pełni.',
+        desc: 'Zarezerwowane — korzystaj w pełni. Dziś jest czas, slot do Parku dopiero 11:30.',
         mapsUrl: null,
         officialUrl: null,
         bookingUrl: null
       },
       {
-        time: '10:00',
+        time: '10:45',
         action: 'Droga do Park Güell',
         transport: 'Pieszo pod górę (hotel → Park Güell) · 20–25 min — lub metro L3 do Vallcarca + 10 min pieszo',
-        desc: 'Pieszo 20–25 min pod górę (Torrent de l\'Olla → Carrer de l\'Escorial → Carrer del Cedrón). LUB Metro L3 Lesseps → Vallcarca + 10 min spacer.',
+        desc: 'Wyjście ~10:45, by zdążyć na slot 11:30. Pieszo 20–25 min pod górę (Torrent de l\'Olla → Carrer de l\'Escorial → Carrer del Cedrón). LUB Metro L3 Lesseps → Vallcarca + 10 min spacer.',
         mapsUrl: 'https://www.google.com/maps/search/?api=1&query=41.4138,2.1527',
         officialUrl: null,
         bookingUrl: null
       },
       {
-        time: '10:30 – 12:30',
+        time: '11:30 – 13:30',
         action: '🌈 Park Güell',
-        desc: 'Strefa płatna: Dragon Staircase, mozaiki Sala Hipóstila, taras z widokiem. Strefa darmowa: punkty widokowe, promenada. Idź na Turó del Calvari (najwyższy punkt) dla panoramy 360°.',
+        desc: 'Slot wejścia 11:30. Strefa płatna: Dragon Staircase, mozaiki Sala Hipóstila, taras z widokiem. Strefa darmowa: punkty widokowe, promenada. Idź na Turó del Calvari (najwyższy punkt) dla panoramy 360°. Słońce w zenicie — pij wodę, trzymaj się cienia.',
         mapsUrl: 'https://www.google.com/maps/search/?api=1&query=41.4138,2.1527',
         officialUrl: 'https://parkguell.barcelona/en',
         bookingUrl: 'https://parkguell.barcelona/en/buy-tickets'
       },
       {
-        time: '12:30 – 13:15',
+        time: '13:30 – 14:00',
         action: 'Zejście + metro do Gràcia',
         transport: 'Pieszo w dół lub bus (Park Güell → Lesseps) · ~15 min',
         desc: 'Zejście pieszo lub bus do Lesseps. Odpoczynek po wspinaczce.',
@@ -266,7 +266,7 @@ export const ITINERARY = [
         bookingUrl: null
       },
       {
-        time: '13:00 – 14:30',
+        time: '14:00 – 15:15',
         action: 'Lunch w Gràcia',
         desc: 'Fonda Pepa (Carrer de Vic, 7) lub dowolne lokalne tapas przy Carrer de Verdi. Pierwsze piwo lub wino z widokiem.',
         mapsUrl: 'https://www.google.com/maps/search/?api=1&query=41.4018,2.1606',
@@ -274,15 +274,15 @@ export const ITINERARY = [
         bookingUrl: null
       },
       {
-        time: '14:30 – 15:30',
+        time: '15:15 – 16:00',
         action: 'Sjesta w hotelu',
-        desc: 'Godzina odpoczynku — lipiec = 33°C w południe. To mądrość, nie słabość.',
+        desc: '45 min odpoczynku — lipiec = 33°C w południe. To mądrość, nie słabość.',
         mapsUrl: null,
         officialUrl: null,
         bookingUrl: null
       },
       {
-        time: '15:30',
+        time: '16:00',
         action: 'Metro do centrum',
         transport: 'Metro L3 (Lesseps → Urquinaona / Jaume I) · ~14 min',
         desc: 'L3 Lesseps → Urquinaona lub Jaume I. Czas: 12–15 min.',
@@ -291,7 +291,7 @@ export const ITINERARY = [
         bookingUrl: null
       },
       {
-        time: '16:00 – 18:30',
+        time: '16:30 – 19:00',
         action: '🏛️ Gothic Quarter + El Born',
         transport: 'Pieszo (trasa po Starym Mieście) · ~2,5 km łącznie',
         desc: 'Trasa piesza: Carrer del Bisbe (most neo-gotycki) → Katedra → Plaça de Sant Jaume → Plaça Reial → przez Carrer de Ferran do El Born → Carrer del Rec → Passeig del Born → Santa Maria del Mar.',
@@ -300,7 +300,7 @@ export const ITINERARY = [
         bookingUrl: null
       },
       {
-        time: '18:30 – 19:30',
+        time: '19:00 – 19:45',
         action: '🛒 Mercat de Santa Caterina',
         transport: 'Pieszo (z Gothic/El Born) · ~5 min',
         desc: 'Kolorowy targ — piękna falista dachówka, mniej turystyczny niż Boqueria. Przespaceruj się, kawa przy barze wewnątrz (Bar Joan). W piątek otwarty do 20:30!',
@@ -309,7 +309,7 @@ export const ITINERARY = [
         bookingUrl: null
       },
       {
-        time: '19:30 – 20:30',
+        time: '19:45 – 20:45',
         action: 'Drink w El Born — El Xampanyet',
         transport: 'Pieszo (Mercat → El Xampanyet) · ~5 min',
         desc: 'Cava i tapas. Kultowe miejsce przy Carrer de Montcada. Bez rezerwacji — może być kolejka.',
@@ -812,7 +812,7 @@ export const CHECKLIST = [
     notes: 'Najefektowniejsze wnętrze Gaudíego dostępne online. Idźcie rano — Passeig de Gràcia zamykany po południu (TdF).'
   },
   {
-    item: 'Park Güell — bilety wejściowe (3 lipca, slot 10:00)',
+    item: 'Park Güell — bilety wejściowe (3 lipca, slot 11:30)',
     deadline: 'Min. 1–2 tygodnie przed. Warto teraz.',
     cost: '€18/os. (€36 para)',
     status: 'Do rezerwacji',

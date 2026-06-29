@@ -148,8 +148,8 @@ Barcelona w lipcu to upał, tłumy i niespodzianki. Plan ma to uwzględnione —
 | **Intensywność** | Średnia |
 | **Szacunkowe kroki** | 14 000–18 000 |
 | **Szacunkowy koszt** | ok. 120–160 EUR para (Park Güell + jedzenie + metro + opcjonalnie Fontanna) |
-| **Uwaga pogodowa** | 28–33°C; Park Güell rano, kiedy jest najchłodniej |
-| **ALERT** | Park Güell — bilety OBOWIĄZKOWE z wyprzedzeniem; brak biletów przy kasie |
+| **Uwaga pogodowa** | 28–33°C; Park Güell w słońcu (slot 11:30) — woda, czapka, SPF 50, zacienione punkty widokowe |
+| **ALERT** | Park Güell — bilety OBOWIĄZKOWE z wyprzedzeniem (slot 11:30); brak biletów przy kasie |
 
 ---
 
@@ -157,19 +157,18 @@ Barcelona w lipcu to upał, tłumy i niespodzianki. Plan ma to uwzględnione —
 
 | Godzina | Punkt | Opis |
 |---------|-------|------|
-| 09:00–09:45 | **Śniadanie w hotelu** | Śniadanie zarezerwowane — skorzystaj z pełni |
-| 09:50 | Wyjście z hotelu | |
-| 10:00 | **Spacer do Park Güell** | Z hotelu: pieszo 20–25 min pod górę (ulica Torrent de l'Olla na górę, potem Carrer de l'Escorial → Carrer del Cedrón → wejście). ALBO: Metro L3 do Vallcarca + spacer 10 min pod górę. |
-| 10:30–12:30 | **Park Güell** | 2 godziny w strefie płatnej (Dragon Staircase, Monumento kolorowe mozaiki, taras widokowy) + promenada w strefie darmowej z widokiem na miasto. Idź na Turó del Calvari (najwyższy punkt) dla panoramy. |
-| 12:30–13:00 | Zejście z Park Güell | Piesze zejście lub autobus powrotny do metra |
-| 13:00–14:30 | **Lunch w Gràcia** | Powrót do dzielnicy. Propozycja: **Fonda Pepa** (Carrer de Vic, 7) lub targ z tapas przy Carrer de Verdi. Alternatywa: lunch w El Born po drodze do centrum. |
-| 14:30–15:30 | Odpoczynek w hotelu | 1 godzina sjesty — lipiec w Barcelonie = 33°C w południe. To nie słabość, to mądrość. |
-| 15:30 | Metro do centrum | L3 Lesseps → Urquinaona lub Jaume I |
-| 16:00–18:30 | **Gothic Quarter + El Born** | Trasa piesza: Plaça de Catalunya → Las Ramblas (krótko, tylko dla orientacji) → skręt w prawo w Barrio Gótico → Carrer del Bisbe (most neo-gotycki) → Katedra (fasada, krużganek z gęsiami, wstęp €3 do środka opcjonalnie) → Plaça de Sant Jaume → Plaça Reial (palmy, Gaudí stare lampy) → Carrer de Ferran → El Born: Carrer del Rec → Passeig del Born → **Santa Maria del Mar** (zewnętrz + wejście — piękna gotycka katedra, wstęp €7 lub €10 z przewodnikiem) |
-| 18:30–19:30 | **Mercat de Santa Caterina** | Alternatywa La Boqueria — mniej turystyczna, piękna kolorowa dachówka. Przespaceruj się, sprawdź stoiska z owocami morza, wypij kawę przy barze wewnątrz. (Godziny: do 20:30 w piątek!) |
-| 19:30–20:00 | Drink w El Born | Pintos lub wino przy Carrer del Rec lub pasaż El Born. **El Xampanyet** (Carrer de Montcada, 22) — cava i tapas, kultowe miejsce, otwarte od rana. |
-| 20:00–20:30 | Metro powrót do hotelu | Jaume I (L4) → Lesseps (L3); lub spacer przez Eixample |
-| 20:30 | Odświeżenie i wyjście na kolację | |
+| 09:00–10:00 | **Śniadanie w hotelu** | Śniadanie zarezerwowane — dziś bez pośpiechu, slot do Parku dopiero 11:30 |
+| 10:45 | Wyjście z hotelu | |
+| 10:45 | **Spacer do Park Güell** | Wyjście ~10:45, by zdążyć na slot 11:30. Z hotelu: pieszo 20–25 min pod górę (ulica Torrent de l'Olla na górę, potem Carrer de l'Escorial → Carrer del Cedrón → wejście). ALBO: Metro L3 do Vallcarca + spacer 10 min pod górę. |
+| 11:30–13:30 | **Park Güell** | Slot wejścia **11:30**. 2 godziny w strefie płatnej (Dragon Staircase, Monumento kolorowe mozaiki, taras widokowy) + promenada w strefie darmowej z widokiem na miasto. Idź na Turó del Calvari (najwyższy punkt) dla panoramy. **Słońce w zenicie — woda, czapka, SPF 50, cień.** |
+| 13:30–14:00 | Zejście z Park Güell | Piesze zejście lub autobus powrotny do metra |
+| 14:00–15:15 | **Lunch w Gràcia** | Powrót do dzielnicy. Propozycja: **Fonda Pepa** (Carrer de Vic, 7) lub targ z tapas przy Carrer de Verdi. Alternatywa: lunch w El Born po drodze do centrum. |
+| 15:15–16:00 | Odpoczynek w hotelu | 45 min sjesty — lipiec w Barcelonie = 33°C w południe. To nie słabość, to mądrość. |
+| 16:00 | Metro do centrum | L3 Lesseps → Urquinaona lub Jaume I |
+| 16:30–19:00 | **Gothic Quarter + El Born** | Trasa piesza: Plaça de Catalunya → Las Ramblas (krótko, tylko dla orientacji) → skręt w prawo w Barrio Gótico → Carrer del Bisbe (most neo-gotycki) → Katedra (fasada, krużganek z gęsiami, wstęp €3 do środka opcjonalnie) → Plaça de Sant Jaume → Plaça Reial (palmy, Gaudí stare lampy) → Carrer de Ferran → El Born: Carrer del Rec → Passeig del Born → **Santa Maria del Mar** (zewnętrz + wejście — piękna gotycka katedra, wstęp €7 lub €10 z przewodnikiem) |
+| 19:00–19:45 | **Mercat de Santa Caterina** | Alternatywa La Boqueria — mniej turystyczna, piękna kolorowa dachówka. Przespaceruj się, sprawdź stoiska z owocami morza, wypij kawę przy barze wewnątrz. (Godziny: do 20:30 w piątek!) |
+| 19:45–20:45 | Drink w El Born | Pintxos lub wino przy Carrer del Rec lub pasaż El Born. **El Xampanyet** (Carrer de Montcada, 22) — cava i tapas, kultowe miejsce, otwarte od rana. |
+| 20:45 | Metro powrót do hotelu | Jaume I (L4) → Lesseps (L3); lub spacer przez Eixample |
 | 21:00–22:30 | **Kolacja w Gràcia** | **Bar Bodega Quimet** (jeśli nie byłeś Dnia 1) — wyjątkowe miejsce, pokoleniowe. LUB **Tangana** (Carrer de la Riera de Sant Miquel, 19). |
 | 22:30 (opcja) | **Fontanna Magiczna Montjuïc** | Jeśli masz energię i chęć: metro L3 do Espanya (10 min z Lesseps), spacer 5 min do fontanny. Darmowy pokaz świetlno-muzyczny co 30 min od ok. 21:00. Powrót ok. 23:00. 🎆 |
 
@@ -516,7 +515,7 @@ Godziny: pn–czw i niedz. do ~24:00, pt do 02:00, sobota całą noc.
 
 ### Do zrobienia NATYCHMIAST (do tygodnia przed wyjazdem)
 
-- [ ] Zarezerwuj bilety na Park Güell (data: 3 lipca, slot 9:30 lub 10:00) — [parkguell.barcelona/buy-tickets](https://parkguell.barcelona/en/buy-tickets)
+- [ ] Zarezerwuj bilety na Park Güell (data: 3 lipca, slot 11:30) — [parkguell.barcelona/buy-tickets](https://parkguell.barcelona/en/buy-tickets)
 - [ ] Kup bilety Camp Nou Barça Immersive Tour (4 lipca, ok. 11:00) — [go.fcbarcelona.com](https://go.fcbarcelona.com/Museu/BarcaImmersiveTour/CampNouExperience/EN)
 - [ ] ⛔ Sagrada Família — bilety wstępu na lipiec wyprzedane; zwiedzanie z zewnątrz (darmowe). Sprawdzaj zwroty na [sagradafamilia.org](https://sagradafamilia.org/)
 - [ ] _(opcja)_ Casa Batlló — jeśli chcecie wnętrze Gaudíego (4 lipca rano) — [casabatllo.es](https://www.casabatllo.es/en/online-tickets/)
@@ -548,7 +547,7 @@ Godziny: pn–czw i niedz. do ~24:00, pt do 02:00, sobota całą noc.
 
 **Dzień 1 (Czw 2/7):** Przylot 9:50 → Aerobús + Metro do Gràcia → Lunch w Bar Bodega Quimet → Odpoczynek → Opcjonalnie: TdF prezentacja przy Sagrada Família (18:30) → Kolacja w Gràcia
 
-**Dzień 2 (Pt 3/7):** Park Güell 10:00 (bilet!) → Lunch Gràcia → Gothic + El Born → Santa Caterina → El Xampanyet → Kolacja → Opcja: Fontanna Montjuïc
+**Dzień 2 (Pt 3/7):** Park Güell 11:30 (bilet!) → Lunch Gràcia → Gothic + El Born → Santa Caterina → El Xampanyet → Kolacja → Opcja: Fontanna Montjuïc
 
 **Dzień 3 (Sob 4/7):** Sagrada Família z zewnątrz 9:30 (darmowe) → Camp Nou 11:00 → Lunch → TdF race oglądanie PdG (14–18) → Kolacja Can Ros (Barceloneta, REZERWACJA!)
 
